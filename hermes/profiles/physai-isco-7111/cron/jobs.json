@@ -17,7 +17,7 @@
         "expr": "43 7 * * *",
         "display": "43 7 * * *"
       },
-      "script": "physai_measure.py",
+      "script": "physai_measure.hy",
       "skill": null,
       "skills": [],
       "workdir": null
@@ -39,7 +39,7 @@
         "expr": "50 6 25 * *",
         "display": "50 6 25 * *"
       },
-      "script": "physai_evidence.py",
+      "script": "physai_evidence.hy",
       "skill": null,
       "skills": [],
       "workdir": null
